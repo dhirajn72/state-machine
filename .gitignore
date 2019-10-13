@@ -1,0 +1,13 @@
+.idea/
+src/
+statemachine.iml
+target/
+
+
+.idea/*
+/.idea/
+/client/target/
+/java/target/
+/webapp/target/
+
+*.iml
